@@ -1,0 +1,521 @@
+"county","precinct","office","district","party","candidate","votes"
+"Monroe","Mendon 1","State Assembly",133,,"Total votes",754
+"Monroe","Mendon 2","State Assembly",133,,"Total votes",603
+"Monroe","Mendon 3","State Assembly",133,,"Total votes",709
+"Monroe","Mendon 4","State Assembly",133,,"Total votes",524
+"Monroe","Mendon 5","State Assembly",133,,"Total votes",659
+"Monroe","Mendon 6","State Assembly",133,,"Total votes",645
+"Monroe","Mendon 7","State Assembly",133,,"Total votes",720
+"Monroe","Mendon 8","State Assembly",133,,"Total votes",304
+"Monroe","Mendon 9","State Assembly",133,,"Total votes",559
+"Monroe","Pittsford 1","State Assembly",133,,"Total votes",397
+"Monroe","Pittsford 2","State Assembly",133,,"Total votes",421
+"Monroe","Pittsford 3","State Assembly",133,,"Total votes",674
+"Monroe","Pittsford 4","State Assembly",133,,"Total votes",591
+"Monroe","Pittsford 5","State Assembly",133,,"Total votes",376
+"Monroe","Pittsford 6","State Assembly",133,,"Total votes",359
+"Monroe","Pittsford 7","State Assembly",133,,"Total votes",218
+"Monroe","Pittsford 8","State Assembly",133,,"Total votes",467
+"Monroe","Pittsford 9","State Assembly",133,,"Total votes",491
+"Monroe","Pittsford 10","State Assembly",133,,"Total votes",652
+"Monroe","Pittsford 11","State Assembly",133,,"Total votes",392
+"Monroe","Pittsford 12","State Assembly",133,,"Total votes",498
+"Monroe","Pittsford 13","State Assembly",133,,"Total votes",328
+"Monroe","Pittsford 14","State Assembly",133,,"Total votes",592
+"Monroe","Pittsford 15","State Assembly",133,,"Total votes",413
+"Monroe","Pittsford 16","State Assembly",133,,"Total votes",417
+"Monroe","Pittsford 17","State Assembly",133,,"Total votes",605
+"Monroe","Pittsford 18","State Assembly",133,,"Total votes",426
+"Monroe","Pittsford 19","State Assembly",133,,"Total votes",305
+"Monroe","Pittsford 20","State Assembly",133,,"Total votes",502
+"Monroe","Pittsford 21","State Assembly",133,,"Total votes",516
+"Monroe","Pittsford 22","State Assembly",133,,"Total votes",585
+"Monroe","Pittsford 23","State Assembly",133,,"Total votes",412
+"Monroe","Pittsford 24","State Assembly",133,,"Total votes",537
+"Monroe","Pittsford 25","State Assembly",133,,"Total votes",583
+"Monroe","Pittsford 26","State Assembly",133,,"Total votes",481
+"Monroe","Pittsford 27","State Assembly",133,,"Total votes",447
+"Monroe","Pittsford 28","State Assembly",133,,"Total votes",427
+"Monroe","Pittsford 29","State Assembly",133,,"Total votes",453
+"Monroe","Pittsford 30","State Assembly",133,,"Total votes",431
+"Monroe","Pittsford 31","State Assembly",133,,"Total votes",592
+"Monroe","Pittsford 32","State Assembly",133,,"Total votes",522
+"Monroe","Pittsford 33","State Assembly",133,,"Total votes",734
+"Monroe","Pittsford 34","State Assembly",133,,"Total votes",850
+"Monroe","Rush 1","State Assembly",133,,"Total votes",605
+"Monroe","Rush 2","State Assembly",133,,"Total votes",422
+"Monroe","Rush 3","State Assembly",133,,"Total votes",575
+"Monroe","Rush 4","State Assembly",133,,"Total votes",587
+"Monroe","Wheatland 1","State Assembly",133,,"Total votes",449
+"Monroe","Wheatland 2","State Assembly",133,,"Total votes",471
+"Monroe","Wheatland 3","State Assembly",133,,"Total votes",602
+"Monroe","Wheatland 4","State Assembly",133,,"Total votes",502
+"Monroe","Wheatland 5","State Assembly",133,,"Total votes",534
+"Monroe","Mendon 1","State Assembly",133,"DEM","Barbara A. Baer",302
+"Monroe","Mendon 2","State Assembly",133,"DEM","Barbara A. Baer",266
+"Monroe","Mendon 3","State Assembly",133,"DEM","Barbara A. Baer",270
+"Monroe","Mendon 4","State Assembly",133,"DEM","Barbara A. Baer",240
+"Monroe","Mendon 5","State Assembly",133,"DEM","Barbara A. Baer",261
+"Monroe","Mendon 6","State Assembly",133,"DEM","Barbara A. Baer",255
+"Monroe","Mendon 7","State Assembly",133,"DEM","Barbara A. Baer",272
+"Monroe","Mendon 8","State Assembly",133,"DEM","Barbara A. Baer",127
+"Monroe","Mendon 9","State Assembly",133,"DEM","Barbara A. Baer",210
+"Monroe","Pittsford 1","State Assembly",133,"DEM","Barbara A. Baer",217
+"Monroe","Pittsford 2","State Assembly",133,"DEM","Barbara A. Baer",247
+"Monroe","Pittsford 3","State Assembly",133,"DEM","Barbara A. Baer",329
+"Monroe","Pittsford 4","State Assembly",133,"DEM","Barbara A. Baer",286
+"Monroe","Pittsford 5","State Assembly",133,"DEM","Barbara A. Baer",208
+"Monroe","Pittsford 6","State Assembly",133,"DEM","Barbara A. Baer",221
+"Monroe","Pittsford 7","State Assembly",133,"DEM","Barbara A. Baer",123
+"Monroe","Pittsford 8","State Assembly",133,"DEM","Barbara A. Baer",198
+"Monroe","Pittsford 9","State Assembly",133,"DEM","Barbara A. Baer",227
+"Monroe","Pittsford 10","State Assembly",133,"DEM","Barbara A. Baer",258
+"Monroe","Pittsford 11","State Assembly",133,"DEM","Barbara A. Baer",157
+"Monroe","Pittsford 12","State Assembly",133,"DEM","Barbara A. Baer",243
+"Monroe","Pittsford 13","State Assembly",133,"DEM","Barbara A. Baer",166
+"Monroe","Pittsford 14","State Assembly",133,"DEM","Barbara A. Baer",275
+"Monroe","Pittsford 15","State Assembly",133,"DEM","Barbara A. Baer",187
+"Monroe","Pittsford 16","State Assembly",133,"DEM","Barbara A. Baer",203
+"Monroe","Pittsford 17","State Assembly",133,"DEM","Barbara A. Baer",326
+"Monroe","Pittsford 18","State Assembly",133,"DEM","Barbara A. Baer",227
+"Monroe","Pittsford 19","State Assembly",133,"DEM","Barbara A. Baer",128
+"Monroe","Pittsford 20","State Assembly",133,"DEM","Barbara A. Baer",255
+"Monroe","Pittsford 21","State Assembly",133,"DEM","Barbara A. Baer",284
+"Monroe","Pittsford 22","State Assembly",133,"DEM","Barbara A. Baer",312
+"Monroe","Pittsford 23","State Assembly",133,"DEM","Barbara A. Baer",182
+"Monroe","Pittsford 24","State Assembly",133,"DEM","Barbara A. Baer",255
+"Monroe","Pittsford 25","State Assembly",133,"DEM","Barbara A. Baer",298
+"Monroe","Pittsford 26","State Assembly",133,"DEM","Barbara A. Baer",221
+"Monroe","Pittsford 27","State Assembly",133,"DEM","Barbara A. Baer",231
+"Monroe","Pittsford 28","State Assembly",133,"DEM","Barbara A. Baer",218
+"Monroe","Pittsford 29","State Assembly",133,"DEM","Barbara A. Baer",174
+"Monroe","Pittsford 30","State Assembly",133,"DEM","Barbara A. Baer",234
+"Monroe","Pittsford 31","State Assembly",133,"DEM","Barbara A. Baer",270
+"Monroe","Pittsford 32","State Assembly",133,"DEM","Barbara A. Baer",264
+"Monroe","Pittsford 33","State Assembly",133,"DEM","Barbara A. Baer",311
+"Monroe","Pittsford 34","State Assembly",133,"DEM","Barbara A. Baer",394
+"Monroe","Rush 1","State Assembly",133,"DEM","Barbara A. Baer",220
+"Monroe","Rush 2","State Assembly",133,"DEM","Barbara A. Baer",129
+"Monroe","Rush 3","State Assembly",133,"DEM","Barbara A. Baer",237
+"Monroe","Rush 4","State Assembly",133,"DEM","Barbara A. Baer",195
+"Monroe","Wheatland 1","State Assembly",133,"DEM","Barbara A. Baer",188
+"Monroe","Wheatland 2","State Assembly",133,"DEM","Barbara A. Baer",137
+"Monroe","Wheatland 3","State Assembly",133,"DEM","Barbara A. Baer",246
+"Monroe","Wheatland 4","State Assembly",133,"DEM","Barbara A. Baer",181
+"Monroe","Wheatland 5","State Assembly",133,"DEM","Barbara A. Baer",135
+"Monroe","Mendon 1","State Assembly",133,"REP","Joe Errigo",286
+"Monroe","Mendon 2","State Assembly",133,"REP","Joe Errigo",156
+"Monroe","Mendon 3","State Assembly",133,"REP","Joe Errigo",264
+"Monroe","Mendon 4","State Assembly",133,"REP","Joe Errigo",170
+"Monroe","Mendon 5","State Assembly",133,"REP","Joe Errigo",245
+"Monroe","Mendon 6","State Assembly",133,"REP","Joe Errigo",238
+"Monroe","Mendon 7","State Assembly",133,"REP","Joe Errigo",319
+"Monroe","Mendon 8","State Assembly",133,"REP","Joe Errigo",108
+"Monroe","Mendon 9","State Assembly",133,"REP","Joe Errigo",219
+"Monroe","Pittsford 1","State Assembly",133,"REP","Joe Errigo",114
+"Monroe","Pittsford 2","State Assembly",133,"REP","Joe Errigo",93
+"Monroe","Pittsford 3","State Assembly",133,"REP","Joe Errigo",240
+"Monroe","Pittsford 4","State Assembly",133,"REP","Joe Errigo",221
+"Monroe","Pittsford 5","State Assembly",133,"REP","Joe Errigo",93
+"Monroe","Pittsford 6","State Assembly",133,"REP","Joe Errigo",77
+"Monroe","Pittsford 7","State Assembly",133,"REP","Joe Errigo",58
+"Monroe","Pittsford 8","State Assembly",133,"REP","Joe Errigo",206
+"Monroe","Pittsford 9","State Assembly",133,"REP","Joe Errigo",182
+"Monroe","Pittsford 10","State Assembly",133,"REP","Joe Errigo",283
+"Monroe","Pittsford 11","State Assembly",133,"REP","Joe Errigo",146
+"Monroe","Pittsford 12","State Assembly",133,"REP","Joe Errigo",183
+"Monroe","Pittsford 13","State Assembly",133,"REP","Joe Errigo",100
+"Monroe","Pittsford 14","State Assembly",133,"REP","Joe Errigo",220
+"Monroe","Pittsford 15","State Assembly",133,"REP","Joe Errigo",126
+"Monroe","Pittsford 16","State Assembly",133,"REP","Joe Errigo",133
+"Monroe","Pittsford 17","State Assembly",133,"REP","Joe Errigo",179
+"Monroe","Pittsford 18","State Assembly",133,"REP","Joe Errigo",129
+"Monroe","Pittsford 19","State Assembly",133,"REP","Joe Errigo",108
+"Monroe","Pittsford 20","State Assembly",133,"REP","Joe Errigo",159
+"Monroe","Pittsford 21","State Assembly",133,"REP","Joe Errigo",155
+"Monroe","Pittsford 22","State Assembly",133,"REP","Joe Errigo",199
+"Monroe","Pittsford 23","State Assembly",133,"REP","Joe Errigo",148
+"Monroe","Pittsford 24","State Assembly",133,"REP","Joe Errigo",202
+"Monroe","Pittsford 25","State Assembly",133,"REP","Joe Errigo",207
+"Monroe","Pittsford 26","State Assembly",133,"REP","Joe Errigo",174
+"Monroe","Pittsford 27","State Assembly",133,"REP","Joe Errigo",136
+"Monroe","Pittsford 28","State Assembly",133,"REP","Joe Errigo",142
+"Monroe","Pittsford 29","State Assembly",133,"REP","Joe Errigo",185
+"Monroe","Pittsford 30","State Assembly",133,"REP","Joe Errigo",154
+"Monroe","Pittsford 31","State Assembly",133,"REP","Joe Errigo",241
+"Monroe","Pittsford 32","State Assembly",133,"REP","Joe Errigo",184
+"Monroe","Pittsford 33","State Assembly",133,"REP","Joe Errigo",296
+"Monroe","Pittsford 34","State Assembly",133,"REP","Joe Errigo",339
+"Monroe","Rush 1","State Assembly",133,"REP","Joe Errigo",258
+"Monroe","Rush 2","State Assembly",133,"REP","Joe Errigo",178
+"Monroe","Rush 3","State Assembly",133,"REP","Joe Errigo",210
+"Monroe","Rush 4","State Assembly",133,"REP","Joe Errigo",242
+"Monroe","Wheatland 1","State Assembly",133,"REP","Joe Errigo",141
+"Monroe","Wheatland 2","State Assembly",133,"REP","Joe Errigo",195
+"Monroe","Wheatland 3","State Assembly",133,"REP","Joe Errigo",216
+"Monroe","Wheatland 4","State Assembly",133,"REP","Joe Errigo",189
+"Monroe","Wheatland 5","State Assembly",133,"REP","Joe Errigo",258
+"Monroe","Mendon 1","State Assembly",133,"CON","Joe Errigo",46
+"Monroe","Mendon 2","State Assembly",133,"CON","Joe Errigo",40
+"Monroe","Mendon 3","State Assembly",133,"CON","Joe Errigo",74
+"Monroe","Mendon 4","State Assembly",133,"CON","Joe Errigo",20
+"Monroe","Mendon 5","State Assembly",133,"CON","Joe Errigo",71
+"Monroe","Mendon 6","State Assembly",133,"CON","Joe Errigo",50
+"Monroe","Mendon 7","State Assembly",133,"CON","Joe Errigo",50
+"Monroe","Mendon 8","State Assembly",133,"CON","Joe Errigo",22
+"Monroe","Mendon 9","State Assembly",133,"CON","Joe Errigo",44
+"Monroe","Pittsford 1","State Assembly",133,"CON","Joe Errigo",21
+"Monroe","Pittsford 2","State Assembly",133,"CON","Joe Errigo",26
+"Monroe","Pittsford 3","State Assembly",133,"CON","Joe Errigo",24
+"Monroe","Pittsford 4","State Assembly",133,"CON","Joe Errigo",29
+"Monroe","Pittsford 5","State Assembly",133,"CON","Joe Errigo",19
+"Monroe","Pittsford 6","State Assembly",133,"CON","Joe Errigo",8
+"Monroe","Pittsford 7","State Assembly",133,"CON","Joe Errigo",14
+"Monroe","Pittsford 8","State Assembly",133,"CON","Joe Errigo",29
+"Monroe","Pittsford 9","State Assembly",133,"CON","Joe Errigo",25
+"Monroe","Pittsford 10","State Assembly",133,"CON","Joe Errigo",34
+"Monroe","Pittsford 11","State Assembly",133,"CON","Joe Errigo",28
+"Monroe","Pittsford 12","State Assembly",133,"CON","Joe Errigo",20
+"Monroe","Pittsford 13","State Assembly",133,"CON","Joe Errigo",20
+"Monroe","Pittsford 14","State Assembly",133,"CON","Joe Errigo",37
+"Monroe","Pittsford 15","State Assembly",133,"CON","Joe Errigo",20
+"Monroe","Pittsford 16","State Assembly",133,"CON","Joe Errigo",18
+"Monroe","Pittsford 17","State Assembly",133,"CON","Joe Errigo",29
+"Monroe","Pittsford 18","State Assembly",133,"CON","Joe Errigo",15
+"Monroe","Pittsford 19","State Assembly",133,"CON","Joe Errigo",34
+"Monroe","Pittsford 20","State Assembly",133,"CON","Joe Errigo",28
+"Monroe","Pittsford 21","State Assembly",133,"CON","Joe Errigo",29
+"Monroe","Pittsford 22","State Assembly",133,"CON","Joe Errigo",30
+"Monroe","Pittsford 23","State Assembly",133,"CON","Joe Errigo",31
+"Monroe","Pittsford 24","State Assembly",133,"CON","Joe Errigo",29
+"Monroe","Pittsford 25","State Assembly",133,"CON","Joe Errigo",25
+"Monroe","Pittsford 26","State Assembly",133,"CON","Joe Errigo",24
+"Monroe","Pittsford 27","State Assembly",133,"CON","Joe Errigo",28
+"Monroe","Pittsford 28","State Assembly",133,"CON","Joe Errigo",13
+"Monroe","Pittsford 29","State Assembly",133,"CON","Joe Errigo",21
+"Monroe","Pittsford 30","State Assembly",133,"CON","Joe Errigo",14
+"Monroe","Pittsford 31","State Assembly",133,"CON","Joe Errigo",26
+"Monroe","Pittsford 32","State Assembly",133,"CON","Joe Errigo",23
+"Monroe","Pittsford 33","State Assembly",133,"CON","Joe Errigo",46
+"Monroe","Pittsford 34","State Assembly",133,"CON","Joe Errigo",29
+"Monroe","Rush 1","State Assembly",133,"CON","Joe Errigo",51
+"Monroe","Rush 2","State Assembly",133,"CON","Joe Errigo",50
+"Monroe","Rush 3","State Assembly",133,"CON","Joe Errigo",48
+"Monroe","Rush 4","State Assembly",133,"CON","Joe Errigo",54
+"Monroe","Wheatland 1","State Assembly",133,"CON","Joe Errigo",52
+"Monroe","Wheatland 2","State Assembly",133,"CON","Joe Errigo",50
+"Monroe","Wheatland 3","State Assembly",133,"CON","Joe Errigo",45
+"Monroe","Wheatland 4","State Assembly",133,"CON","Joe Errigo",43
+"Monroe","Wheatland 5","State Assembly",133,"CON","Joe Errigo",70
+"Monroe","Mendon 1","State Assembly",133,"WOR","Barbara A. Baer",11
+"Monroe","Mendon 2","State Assembly",133,"WOR","Barbara A. Baer",24
+"Monroe","Mendon 3","State Assembly",133,"WOR","Barbara A. Baer",19
+"Monroe","Mendon 4","State Assembly",133,"WOR","Barbara A. Baer",19
+"Monroe","Mendon 5","State Assembly",133,"WOR","Barbara A. Baer",16
+"Monroe","Mendon 6","State Assembly",133,"WOR","Barbara A. Baer",24
+"Monroe","Mendon 7","State Assembly",133,"WOR","Barbara A. Baer",6
+"Monroe","Mendon 8","State Assembly",133,"WOR","Barbara A. Baer",13
+"Monroe","Mendon 9","State Assembly",133,"WOR","Barbara A. Baer",15
+"Monroe","Pittsford 1","State Assembly",133,"WOR","Barbara A. Baer",13
+"Monroe","Pittsford 2","State Assembly",133,"WOR","Barbara A. Baer",8
+"Monroe","Pittsford 3","State Assembly",133,"WOR","Barbara A. Baer",9
+"Monroe","Pittsford 4","State Assembly",133,"WOR","Barbara A. Baer",12
+"Monroe","Pittsford 5","State Assembly",133,"WOR","Barbara A. Baer",15
+"Monroe","Pittsford 6","State Assembly",133,"WOR","Barbara A. Baer",9
+"Monroe","Pittsford 7","State Assembly",133,"WOR","Barbara A. Baer",1
+"Monroe","Pittsford 8","State Assembly",133,"WOR","Barbara A. Baer",4
+"Monroe","Pittsford 9","State Assembly",133,"WOR","Barbara A. Baer",12
+"Monroe","Pittsford 10","State Assembly",133,"WOR","Barbara A. Baer",12
+"Monroe","Pittsford 11","State Assembly",133,"WOR","Barbara A. Baer",7
+"Monroe","Pittsford 12","State Assembly",133,"WOR","Barbara A. Baer",8
+"Monroe","Pittsford 13","State Assembly",133,"WOR","Barbara A. Baer",10
+"Monroe","Pittsford 14","State Assembly",133,"WOR","Barbara A. Baer",6
+"Monroe","Pittsford 15","State Assembly",133,"WOR","Barbara A. Baer",19
+"Monroe","Pittsford 16","State Assembly",133,"WOR","Barbara A. Baer",15
+"Monroe","Pittsford 17","State Assembly",133,"WOR","Barbara A. Baer",14
+"Monroe","Pittsford 18","State Assembly",133,"WOR","Barbara A. Baer",13
+"Monroe","Pittsford 19","State Assembly",133,"WOR","Barbara A. Baer",2
+"Monroe","Pittsford 20","State Assembly",133,"WOR","Barbara A. Baer",12
+"Monroe","Pittsford 21","State Assembly",133,"WOR","Barbara A. Baer",11
+"Monroe","Pittsford 22","State Assembly",133,"WOR","Barbara A. Baer",8
+"Monroe","Pittsford 23","State Assembly",133,"WOR","Barbara A. Baer",9
+"Monroe","Pittsford 24","State Assembly",133,"WOR","Barbara A. Baer",5
+"Monroe","Pittsford 25","State Assembly",133,"WOR","Barbara A. Baer",9
+"Monroe","Pittsford 26","State Assembly",133,"WOR","Barbara A. Baer",15
+"Monroe","Pittsford 27","State Assembly",133,"WOR","Barbara A. Baer",14
+"Monroe","Pittsford 28","State Assembly",133,"WOR","Barbara A. Baer",12
+"Monroe","Pittsford 29","State Assembly",133,"WOR","Barbara A. Baer",15
+"Monroe","Pittsford 30","State Assembly",133,"WOR","Barbara A. Baer",5
+"Monroe","Pittsford 31","State Assembly",133,"WOR","Barbara A. Baer",14
+"Monroe","Pittsford 32","State Assembly",133,"WOR","Barbara A. Baer",10
+"Monroe","Pittsford 33","State Assembly",133,"WOR","Barbara A. Baer",15
+"Monroe","Pittsford 34","State Assembly",133,"WOR","Barbara A. Baer",10
+"Monroe","Rush 1","State Assembly",133,"WOR","Barbara A. Baer",17
+"Monroe","Rush 2","State Assembly",133,"WOR","Barbara A. Baer",13
+"Monroe","Rush 3","State Assembly",133,"WOR","Barbara A. Baer",21
+"Monroe","Rush 4","State Assembly",133,"WOR","Barbara A. Baer",16
+"Monroe","Wheatland 1","State Assembly",133,"WOR","Barbara A. Baer",20
+"Monroe","Wheatland 2","State Assembly",133,"WOR","Barbara A. Baer",7
+"Monroe","Wheatland 3","State Assembly",133,"WOR","Barbara A. Baer",18
+"Monroe","Wheatland 4","State Assembly",133,"WOR","Barbara A. Baer",12
+"Monroe","Wheatland 5","State Assembly",133,"WOR","Barbara A. Baer",12
+"Monroe","Mendon 1","State Assembly",133,"IND","Joe Errigo",19
+"Monroe","Mendon 2","State Assembly",133,"IND","Joe Errigo",16
+"Monroe","Mendon 3","State Assembly",133,"IND","Joe Errigo",17
+"Monroe","Mendon 4","State Assembly",133,"IND","Joe Errigo",9
+"Monroe","Mendon 5","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Mendon 6","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Mendon 7","State Assembly",133,"IND","Joe Errigo",15
+"Monroe","Mendon 8","State Assembly",133,"IND","Joe Errigo",6
+"Monroe","Mendon 9","State Assembly",133,"IND","Joe Errigo",16
+"Monroe","Pittsford 1","State Assembly",133,"IND","Joe Errigo",4
+"Monroe","Pittsford 2","State Assembly",133,"IND","Joe Errigo",10
+"Monroe","Pittsford 3","State Assembly",133,"IND","Joe Errigo",8
+"Monroe","Pittsford 4","State Assembly",133,"IND","Joe Errigo",3
+"Monroe","Pittsford 5","State Assembly",133,"IND","Joe Errigo",5
+"Monroe","Pittsford 6","State Assembly",133,"IND","Joe Errigo",6
+"Monroe","Pittsford 7","State Assembly",133,"IND","Joe Errigo",4
+"Monroe","Pittsford 8","State Assembly",133,"IND","Joe Errigo",6
+"Monroe","Pittsford 9","State Assembly",133,"IND","Joe Errigo",6
+"Monroe","Pittsford 10","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Pittsford 11","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Pittsford 12","State Assembly",133,"IND","Joe Errigo",7
+"Monroe","Pittsford 13","State Assembly",133,"IND","Joe Errigo",8
+"Monroe","Pittsford 14","State Assembly",133,"IND","Joe Errigo",9
+"Monroe","Pittsford 15","State Assembly",133,"IND","Joe Errigo",10
+"Monroe","Pittsford 16","State Assembly",133,"IND","Joe Errigo",14
+"Monroe","Pittsford 17","State Assembly",133,"IND","Joe Errigo",13
+"Monroe","Pittsford 18","State Assembly",133,"IND","Joe Errigo",4
+"Monroe","Pittsford 19","State Assembly",133,"IND","Joe Errigo",9
+"Monroe","Pittsford 20","State Assembly",133,"IND","Joe Errigo",8
+"Monroe","Pittsford 21","State Assembly",133,"IND","Joe Errigo",9
+"Monroe","Pittsford 22","State Assembly",133,"IND","Joe Errigo",8
+"Monroe","Pittsford 23","State Assembly",133,"IND","Joe Errigo",12
+"Monroe","Pittsford 24","State Assembly",133,"IND","Joe Errigo",3
+"Monroe","Pittsford 25","State Assembly",133,"IND","Joe Errigo",5
+"Monroe","Pittsford 26","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Pittsford 27","State Assembly",133,"IND","Joe Errigo",7
+"Monroe","Pittsford 28","State Assembly",133,"IND","Joe Errigo",7
+"Monroe","Pittsford 29","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Pittsford 30","State Assembly",133,"IND","Joe Errigo",1
+"Monroe","Pittsford 31","State Assembly",133,"IND","Joe Errigo",10
+"Monroe","Pittsford 32","State Assembly",133,"IND","Joe Errigo",8
+"Monroe","Pittsford 33","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Pittsford 34","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Rush 1","State Assembly",133,"IND","Joe Errigo",7
+"Monroe","Rush 2","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Rush 3","State Assembly",133,"IND","Joe Errigo",8
+"Monroe","Rush 4","State Assembly",133,"IND","Joe Errigo",19
+"Monroe","Wheatland 1","State Assembly",133,"IND","Joe Errigo",7
+"Monroe","Wheatland 2","State Assembly",133,"IND","Joe Errigo",15
+"Monroe","Wheatland 3","State Assembly",133,"IND","Joe Errigo",13
+"Monroe","Wheatland 4","State Assembly",133,"IND","Joe Errigo",13
+"Monroe","Wheatland 5","State Assembly",133,"IND","Joe Errigo",11
+"Monroe","Mendon 1","State Assembly",133,"WEP","Barbara A. Baer",14
+"Monroe","Mendon 2","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Mendon 3","State Assembly",133,"WEP","Barbara A. Baer",10
+"Monroe","Mendon 4","State Assembly",133,"WEP","Barbara A. Baer",9
+"Monroe","Mendon 5","State Assembly",133,"WEP","Barbara A. Baer",2
+"Monroe","Mendon 6","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Mendon 7","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Mendon 8","State Assembly",133,"WEP","Barbara A. Baer",1
+"Monroe","Mendon 9","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Pittsford 1","State Assembly",133,"WEP","Barbara A. Baer",3
+"Monroe","Pittsford 2","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Pittsford 3","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Pittsford 4","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Pittsford 5","State Assembly",133,"WEP","Barbara A. Baer",7
+"Monroe","Pittsford 6","State Assembly",133,"WEP","Barbara A. Baer",7
+"Monroe","Pittsford 7","State Assembly",133,"WEP","Barbara A. Baer",0
+"Monroe","Pittsford 8","State Assembly",133,"WEP","Barbara A. Baer",0
+"Monroe","Pittsford 9","State Assembly",133,"WEP","Barbara A. Baer",4
+"Monroe","Pittsford 10","State Assembly",133,"WEP","Barbara A. Baer",9
+"Monroe","Pittsford 11","State Assembly",133,"WEP","Barbara A. Baer",4
+"Monroe","Pittsford 12","State Assembly",133,"WEP","Barbara A. Baer",7
+"Monroe","Pittsford 13","State Assembly",133,"WEP","Barbara A. Baer",0
+"Monroe","Pittsford 14","State Assembly",133,"WEP","Barbara A. Baer",9
+"Monroe","Pittsford 15","State Assembly",133,"WEP","Barbara A. Baer",11
+"Monroe","Pittsford 16","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Pittsford 17","State Assembly",133,"WEP","Barbara A. Baer",10
+"Monroe","Pittsford 18","State Assembly",133,"WEP","Barbara A. Baer",8
+"Monroe","Pittsford 19","State Assembly",133,"WEP","Barbara A. Baer",0
+"Monroe","Pittsford 20","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Pittsford 21","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Pittsford 22","State Assembly",133,"WEP","Barbara A. Baer",8
+"Monroe","Pittsford 23","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Pittsford 24","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Pittsford 25","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Pittsford 26","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Pittsford 27","State Assembly",133,"WEP","Barbara A. Baer",3
+"Monroe","Pittsford 28","State Assembly",133,"WEP","Barbara A. Baer",4
+"Monroe","Pittsford 29","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Pittsford 30","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Pittsford 31","State Assembly",133,"WEP","Barbara A. Baer",3
+"Monroe","Pittsford 32","State Assembly",133,"WEP","Barbara A. Baer",2
+"Monroe","Pittsford 33","State Assembly",133,"WEP","Barbara A. Baer",13
+"Monroe","Pittsford 34","State Assembly",133,"WEP","Barbara A. Baer",8
+"Monroe","Rush 1","State Assembly",133,"WEP","Barbara A. Baer",6
+"Monroe","Rush 2","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Rush 3","State Assembly",133,"WEP","Barbara A. Baer",9
+"Monroe","Rush 4","State Assembly",133,"WEP","Barbara A. Baer",8
+"Monroe","Wheatland 1","State Assembly",133,"WEP","Barbara A. Baer",7
+"Monroe","Wheatland 2","State Assembly",133,"WEP","Barbara A. Baer",5
+"Monroe","Wheatland 3","State Assembly",133,"WEP","Barbara A. Baer",8
+"Monroe","Wheatland 4","State Assembly",133,"WEP","Barbara A. Baer",10
+"Monroe","Wheatland 5","State Assembly",133,"WEP","Barbara A. Baer",7
+"Monroe","Mendon 1","State Assembly",133,"REF","Joe Errigo",4
+"Monroe","Mendon 2","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Mendon 3","State Assembly",133,"REF","Joe Errigo",6
+"Monroe","Mendon 4","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Mendon 5","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Mendon 6","State Assembly",133,"REF","Joe Errigo",2
+"Monroe","Mendon 7","State Assembly",133,"REF","Joe Errigo",7
+"Monroe","Mendon 8","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Mendon 9","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 1","State Assembly",133,"REF","Joe Errigo",5
+"Monroe","Pittsford 2","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 3","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 4","State Assembly",133,"REF","Joe Errigo",3
+"Monroe","Pittsford 5","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 6","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 7","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 8","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 9","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 10","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 11","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 12","State Assembly",133,"REF","Joe Errigo",2
+"Monroe","Pittsford 13","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 14","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 15","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 16","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 17","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 18","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 19","State Assembly",133,"REF","Joe Errigo",2
+"Monroe","Pittsford 20","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 21","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 22","State Assembly",133,"REF","Joe Errigo",3
+"Monroe","Pittsford 23","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 24","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 25","State Assembly",133,"REF","Joe Errigo",2
+"Monroe","Pittsford 26","State Assembly",133,"REF","Joe Errigo",3
+"Monroe","Pittsford 27","State Assembly",133,"REF","Joe Errigo",2
+"Monroe","Pittsford 28","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 29","State Assembly",133,"REF","Joe Errigo",2
+"Monroe","Pittsford 30","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 31","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Pittsford 32","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Pittsford 33","State Assembly",133,"REF","Joe Errigo",4
+"Monroe","Pittsford 34","State Assembly",133,"REF","Joe Errigo",4
+"Monroe","Rush 1","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Rush 2","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Rush 3","State Assembly",133,"REF","Joe Errigo",6
+"Monroe","Rush 4","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Wheatland 1","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Wheatland 2","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Wheatland 3","State Assembly",133,"REF","Joe Errigo",0
+"Monroe","Wheatland 4","State Assembly",133,"REF","Joe Errigo",2
+"Monroe","Wheatland 5","State Assembly",133,"REF","Joe Errigo",1
+"Monroe","Mendon 1","State Assembly",133,,"Scatter",27
+"Monroe","Mendon 2","State Assembly",133,,"Scatter",39
+"Monroe","Mendon 3","State Assembly",133,,"Scatter",13
+"Monroe","Mendon 4","State Assembly",133,,"Scatter",21
+"Monroe","Mendon 5","State Assembly",133,,"Scatter",16
+"Monroe","Mendon 6","State Assembly",133,,"Scatter",20
+"Monroe","Mendon 7","State Assembly",133,,"Scatter",2
+"Monroe","Mendon 8","State Assembly",133,,"Scatter",13
+"Monroe","Mendon 9","State Assembly",133,,"Scatter",10
+"Monroe","Pittsford 1","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 2","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 3","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 4","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 5","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 6","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 7","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 8","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 9","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 10","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 11","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 12","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 13","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 14","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 15","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 16","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 17","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 18","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 19","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 20","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 21","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 22","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 23","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 24","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 25","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 26","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 27","State Assembly",133,,"Scatter",4
+"Monroe","Pittsford 28","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 29","State Assembly",133,,"Scatter",2
+"Monroe","Pittsford 30","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 31","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 32","State Assembly",133,,"Scatter",0
+"Monroe","Pittsford 33","State Assembly",133,,"Scatter",1
+"Monroe","Pittsford 34","State Assembly",133,,"Scatter",0
+"Monroe","Rush 1","State Assembly",133,,"Scatter",0
+"Monroe","Rush 2","State Assembly",133,,"Scatter",1
+"Monroe","Rush 3","State Assembly",133,,"Scatter",1
+"Monroe","Rush 4","State Assembly",133,,"Scatter",0
+"Monroe","Wheatland 1","State Assembly",133,,"Scatter",0
+"Monroe","Wheatland 2","State Assembly",133,,"Scatter",3
+"Monroe","Wheatland 3","State Assembly",133,,"Scatter",1
+"Monroe","Wheatland 4","State Assembly",133,,"Scatter",3
+"Monroe","Wheatland 5","State Assembly",133,,"Scatter",0
+"Monroe","Mendon 1","State Assembly",133,,"Blank and void",45
+"Monroe","Mendon 2","State Assembly",133,,"Blank and void",55
+"Monroe","Mendon 3","State Assembly",133,,"Blank and void",36
+"Monroe","Mendon 4","State Assembly",133,,"Blank and void",36
+"Monroe","Mendon 5","State Assembly",133,,"Blank and void",37
+"Monroe","Mendon 6","State Assembly",133,,"Blank and void",39
+"Monroe","Mendon 7","State Assembly",133,,"Blank and void",44
+"Monroe","Mendon 8","State Assembly",133,,"Blank and void",14
+"Monroe","Mendon 9","State Assembly",133,,"Blank and void",39
+"Monroe","Pittsford 1","State Assembly",133,,"Blank and void",20
+"Monroe","Pittsford 2","State Assembly",133,,"Blank and void",30
+"Monroe","Pittsford 3","State Assembly",133,,"Blank and void",56
+"Monroe","Pittsford 4","State Assembly",133,,"Blank and void",30
+"Monroe","Pittsford 5","State Assembly",133,,"Blank and void",27
+"Monroe","Pittsford 6","State Assembly",133,,"Blank and void",31
+"Monroe","Pittsford 7","State Assembly",133,,"Blank and void",17
+"Monroe","Pittsford 8","State Assembly",133,,"Blank and void",24
+"Monroe","Pittsford 9","State Assembly",133,,"Blank and void",34
+"Monroe","Pittsford 10","State Assembly",133,,"Blank and void",44
+"Monroe","Pittsford 11","State Assembly",133,,"Blank and void",38
+"Monroe","Pittsford 12","State Assembly",133,,"Blank and void",27
+"Monroe","Pittsford 13","State Assembly",133,,"Blank and void",23
+"Monroe","Pittsford 14","State Assembly",133,,"Blank and void",34
+"Monroe","Pittsford 15","State Assembly",133,,"Blank and void",39
+"Monroe","Pittsford 16","State Assembly",133,,"Blank and void",28
+"Monroe","Pittsford 17","State Assembly",133,,"Blank and void",32
+"Monroe","Pittsford 18","State Assembly",133,,"Blank and void",30
+"Monroe","Pittsford 19","State Assembly",133,,"Blank and void",22
+"Monroe","Pittsford 20","State Assembly",133,,"Blank and void",35
+"Monroe","Pittsford 21","State Assembly",133,,"Blank and void",22
+"Monroe","Pittsford 22","State Assembly",133,,"Blank and void",17
+"Monroe","Pittsford 23","State Assembly",133,,"Blank and void",25
+"Monroe","Pittsford 24","State Assembly",133,,"Blank and void",37
+"Monroe","Pittsford 25","State Assembly",133,,"Blank and void",31
+"Monroe","Pittsford 26","State Assembly",133,,"Blank and void",28
+"Monroe","Pittsford 27","State Assembly",133,,"Blank and void",22
+"Monroe","Pittsford 28","State Assembly",133,,"Blank and void",30
+"Monroe","Pittsford 29","State Assembly",133,,"Blank and void",38
+"Monroe","Pittsford 30","State Assembly",133,,"Blank and void",17
+"Monroe","Pittsford 31","State Assembly",133,,"Blank and void",27
+"Monroe","Pittsford 32","State Assembly",133,,"Blank and void",30
+"Monroe","Pittsford 33","State Assembly",133,,"Blank and void",37
+"Monroe","Pittsford 34","State Assembly",133,,"Blank and void",55
+"Monroe","Rush 1","State Assembly",133,,"Blank and void",45
+"Monroe","Rush 2","State Assembly",133,,"Blank and void",34
+"Monroe","Rush 3","State Assembly",133,,"Blank and void",35
+"Monroe","Rush 4","State Assembly",133,,"Blank and void",53
+"Monroe","Wheatland 1","State Assembly",133,,"Blank and void",33
+"Monroe","Wheatland 2","State Assembly",133,,"Blank and void",58
+"Monroe","Wheatland 3","State Assembly",133,,"Blank and void",55
+"Monroe","Wheatland 4","State Assembly",133,,"Blank and void",49
+"Monroe","Wheatland 5","State Assembly",133,,"Blank and void",40

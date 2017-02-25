@@ -227,7 +227,76 @@ nys <- rbind(nys54, nys55, nys56, nys59, nys61, nys62)
 rm(nys54_raw, nys55_raw, nys56_raw, nys59_raw, nys61_raw, nys62_raw, nys54, nys55, nys56, nys59, nys61, nys62)
 
 #########################################################
+# NY Assembly
+# Saved district #, party, and candidate names in a CSV for much more efficiency
+# In the future, do it this way always
+#########################################################
+nya_candidates <- read.csv("data-export/monroe-candidates.csv", stringsAsFactors = F)
+nya_candidates$party <- toupper(nya_candidates$party)
+
+formatAssembly <- function(race, districtnum) {
+	# Read csv
+	inpath <- paste("data-export/tabula-2016 Monroe, NY precinct-level election results nyassembly", districtnum, ".csv", sep = "")
+	dt <- read.csv(inpath, stringsAsFactors = F, header = F, na.strings = "")
+	
+	# Get colnames from CSV - parties that ran
+	colnya <- nya_candidates[which(nya_candidates$district==districtnum),]$party
+	colnames(dt) <- c("town", "precinct", "total", colnya, "scatter", "blankvoid")
+	
+	# Format numeric columns
+	dt[, -c(1:2)] <- sapply(dt[, -c(1:2)], asCommaless)
+	
+	# District labels are listed in the rows above precinct data
+	# Need to propogate down to all rows below, until next row with non-null district
+	dt <- dt %>% fill(town) %>% 
+		# Remove district header rows and total rows - aka rows with missing precincts
+		filter(!is.na(precinct))  %>%
+		# Convert data to long for Elex format
+		gather(party, votes, -c(1:2)) %>%
+		# Add & format identifying columns
+		mutate(county = "Monroe",
+					 office = race,
+					 party = toupper(party),
+					 district = districtnum) %>%
+		# Format precinct as town + precinct number
+		mutate(precinct = paste(town, precinct, sep = " "))
+	
+	# Join candidate names
+	dt <- left_join(dt, nya_candidates, by = c("party", "district", "office"))
+	dt <- dt %>%
+		# Format non-party rows
+		mutate(candidate = ifelse(!is.na(candidate), candidate,
+					 	ifelse(party == "TOTAL", "Total votes",
+															ifelse(party == "SCATTER", "Scatter",
+																		 ifelse(party == "BLANKVOID", "Blank and void",
+																		 			 NA))))) %>%
+		# NA party for the non-party rows
+		mutate(party = ifelse(party %in% c("TOTAL", "SCATTER", "BLANKVOID"), NA,
+													party)) %>%
+		# Match order of example csv
+		select(county, precinct, office, district, party, candidate, votes)
+	print(table(dt$candidate, dt$party, useNA = "always"))
+	
+	outpath <- paste("data-final/monroe_nyassembly", districtnum, "_2016.csv", sep="")
+	write.csv(dt, outpath, row.names = F, na="")
+	return(dt)
+}
+
+# Read, format, write NY Assembly 
+nya133 <- formatAssembly("State Assembly", 133)
+nya134 <- formatAssembly("State Assembly", 134)
+nya135 <- formatAssembly("State Assembly", 135)
+nya136 <- formatAssembly("State Assembly", 136)
+nya137 <- formatAssembly("State Assembly", 137)
+nya138 <- formatAssembly("State Assembly", 138)
+nya139 <- formatAssembly("State Assembly", 139)
+
+# Join
+nya <- rbind(nya133, nya134, nya135, nya136, nya137, nya138, nya139)
+rm(nya133, nya134, nya135, nya136, nya137, nya138, nya139)
+
+#########################################################
 # All joined, saved with OpenElections file naming scheme
 #########################################################
-monroe <- rbind(prez, senate, reps, nys)
+monroe <- rbind(prez, senate, reps, nys, nya)
 write.csv(monroe, "data-final/20161108__ny__general__monroe__precinct.csv", row.names = F, na="")
