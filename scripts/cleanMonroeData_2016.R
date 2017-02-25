@@ -58,3 +58,7 @@ prez_long <- prez_long %>% mutate(candidate = ifelse(
 prez_long <- prez_long %>% select(county, precinct, office, district, party, candidate, votes)
 
 write.csv(prez_long, "data-final/monroe_president.csv", row.names = F, na="")
+
+#########################################################
+# Senator
+#########################################################
