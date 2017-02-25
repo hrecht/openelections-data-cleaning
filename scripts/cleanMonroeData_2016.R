@@ -37,11 +37,11 @@ prez_raw <- read.csv("data-export/tabula-2016 Monroe, NY precinct-level election
 # Column names
 colnames(prez_raw) <- c("district", "precinct", "total", "dem", "rep", "con", "gre", "wor", "ind", "wep", "lbt", "scatter", "blankvoid")
 # Format
-prez_long <- formatData(prez_raw, "President")
+prez <- formatData(prez_raw, "President")
 
 # Candidate names
-table(prez_long$party)
-prez_long <- prez_long %>% mutate(candidate = ifelse(
+table(prez$party)
+prez <- prez %>% mutate(candidate = ifelse(
 	party %in% c("DEM", "WOR", "WEP"), "Hillary Clinton",
 	ifelse(party %in% c("REP", "CON"), "Donald J. Trump",
 				 ifelse(party %in% c("IND", "LBT"), "Gary Johnson",
@@ -55,10 +55,42 @@ prez_long <- prez_long %>% mutate(candidate = ifelse(
 												party))
 
 # Match order of example csv
-prez_long <- prez_long %>% select(county, precinct, office, district, party, candidate, votes)
+prez <- prez %>% select(county, precinct, office, district, party, candidate, votes)
 
-write.csv(prez_long, "data-final/monroe_president.csv", row.names = F, na="")
+write.csv(prez, "data-final/monroe_president_2016.csv", row.names = F, na="")
 
 #########################################################
 # Senator
 #########################################################
+senate_raw <- read.csv("data-export/tabula-2016 Monroe, NY precinct-level election results ussenator.csv", stringsAsFactors = F, header = F, na.strings = "")
+
+# Column names
+colnames(senate_raw) <- c("district", "precinct", "total", "dem", "rep", "con", "gre", "wor", "ind", "wep", "ref", "lbt", "scatter", "blankvoid")
+senate <- formatData(senate_raw, "U.S. Senate")
+
+# Candidate names
+table(senate$party)
+senate <- senate %>% mutate(candidate = ifelse(
+	party %in% c("DEM", "WOR", "IND", "WEP"), "Charles E. Schumer",
+	ifelse(party %in% c("REP", "CON", "REF"), "Wendy Long",
+				 ifelse(party == "LBT", "Alex Merced",
+				 			 ifelse(party == "GRE", "Robin Laverne Wilson",
+				 			 			 ifelse(party == "TOTAL", "Total votes",
+				 			 			 			 ifelse(party == "SCATTER", "Scatter",
+				 			 			 			 			 ifelse(party == "BLANKVOID", "Blank and void",
+				 			 			 			 			 			 NA)))))))) %>%
+	# NA party for the non-party rows
+	mutate(party = ifelse(party %in% c("TOTAL", "SCATTER", "BLANKVOID"), NA,
+												party))
+
+# Match order of example csv
+senate <- senate %>% select(county, precinct, office, district, party, candidate, votes)
+write.csv(senate, "data-final/monroe_ussenator_2016.csv", row.names = F, na="")
+
+
+#########################################################
+# All joined, saved with OpenElections naming scheme
+#########################################################
+monroe <- rbind(prez, senate)
+write.csv(monroe, "data-final/20161108__ny__general__monroe__precinct.csv
+.csv", row.names = F, na="")
