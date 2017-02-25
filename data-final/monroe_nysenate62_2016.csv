@@ -1,0 +1,225 @@
+"county","precinct","office","district","party","candidate","votes"
+"Monroe","Ogden 1","State Senate",62,,"Total votes",449
+"Monroe","Ogden 2","State Senate",62,,"Total votes",492
+"Monroe","Ogden 3","State Senate",62,,"Total votes",737
+"Monroe","Ogden 4","State Senate",62,,"Total votes",458
+"Monroe","Ogden 5","State Senate",62,,"Total votes",448
+"Monroe","Ogden 6","State Senate",62,,"Total votes",625
+"Monroe","Ogden 7","State Senate",62,,"Total votes",321
+"Monroe","Ogden 8","State Senate",62,,"Total votes",604
+"Monroe","Ogden 9","State Senate",62,,"Total votes",487
+"Monroe","Ogden 10","State Senate",62,,"Total votes",509
+"Monroe","Ogden 11","State Senate",62,,"Total votes",533
+"Monroe","Ogden 12","State Senate",62,,"Total votes",638
+"Monroe","Ogden 13","State Senate",62,,"Total votes",487
+"Monroe","Ogden 14","State Senate",62,,"Total votes",466
+"Monroe","Ogden 15","State Senate",62,,"Total votes",656
+"Monroe","Ogden 16","State Senate",62,,"Total votes",331
+"Monroe","Ogden 17","State Senate",62,,"Total votes",450
+"Monroe","Ogden 18","State Senate",62,,"Total votes",708
+"Monroe","Ogden 19","State Senate",62,,"Total votes",617
+"Monroe","Ogden 20","State Senate",62,,"Total votes",585
+"Monroe","Sweden 1","State Senate",62,,"Total votes",509
+"Monroe","Sweden 2","State Senate",62,,"Total votes",281
+"Monroe","Sweden 3","State Senate",62,,"Total votes",566
+"Monroe","Sweden 4","State Senate",62,,"Total votes",580
+"Monroe","Sweden 5","State Senate",62,,"Total votes",137
+"Monroe","Sweden 6","State Senate",62,,"Total votes",433
+"Monroe","Sweden 7","State Senate",62,,"Total votes",481
+"Monroe","Sweden 8","State Senate",62,,"Total votes",421
+"Monroe","Sweden 9","State Senate",62,,"Total votes",430
+"Monroe","Sweden 10","State Senate",62,,"Total votes",672
+"Monroe","Sweden 11","State Senate",62,,"Total votes",182
+"Monroe","Sweden 12","State Senate",62,,"Total votes",444
+"Monroe","Ogden 1","State Senate",62,"REP","Robert G. Ortt",224
+"Monroe","Ogden 2","State Senate",62,"REP","Robert G. Ortt",282
+"Monroe","Ogden 3","State Senate",62,"REP","Robert G. Ortt",448
+"Monroe","Ogden 4","State Senate",62,"REP","Robert G. Ortt",267
+"Monroe","Ogden 5","State Senate",62,"REP","Robert G. Ortt",247
+"Monroe","Ogden 6","State Senate",62,"REP","Robert G. Ortt",333
+"Monroe","Ogden 7","State Senate",62,"REP","Robert G. Ortt",181
+"Monroe","Ogden 8","State Senate",62,"REP","Robert G. Ortt",352
+"Monroe","Ogden 9","State Senate",62,"REP","Robert G. Ortt",252
+"Monroe","Ogden 10","State Senate",62,"REP","Robert G. Ortt",280
+"Monroe","Ogden 11","State Senate",62,"REP","Robert G. Ortt",310
+"Monroe","Ogden 12","State Senate",62,"REP","Robert G. Ortt",349
+"Monroe","Ogden 13","State Senate",62,"REP","Robert G. Ortt",277
+"Monroe","Ogden 14","State Senate",62,"REP","Robert G. Ortt",262
+"Monroe","Ogden 15","State Senate",62,"REP","Robert G. Ortt",386
+"Monroe","Ogden 16","State Senate",62,"REP","Robert G. Ortt",197
+"Monroe","Ogden 17","State Senate",62,"REP","Robert G. Ortt",264
+"Monroe","Ogden 18","State Senate",62,"REP","Robert G. Ortt",395
+"Monroe","Ogden 19","State Senate",62,"REP","Robert G. Ortt",330
+"Monroe","Ogden 20","State Senate",62,"REP","Robert G. Ortt",311
+"Monroe","Sweden 1","State Senate",62,"REP","Robert G. Ortt",256
+"Monroe","Sweden 2","State Senate",62,"REP","Robert G. Ortt",108
+"Monroe","Sweden 3","State Senate",62,"REP","Robert G. Ortt",234
+"Monroe","Sweden 4","State Senate",62,"REP","Robert G. Ortt",284
+"Monroe","Sweden 5","State Senate",62,"REP","Robert G. Ortt",59
+"Monroe","Sweden 6","State Senate",62,"REP","Robert G. Ortt",202
+"Monroe","Sweden 7","State Senate",62,"REP","Robert G. Ortt",238
+"Monroe","Sweden 8","State Senate",62,"REP","Robert G. Ortt",216
+"Monroe","Sweden 9","State Senate",62,"REP","Robert G. Ortt",206
+"Monroe","Sweden 10","State Senate",62,"REP","Robert G. Ortt",372
+"Monroe","Sweden 11","State Senate",62,"REP","Robert G. Ortt",73
+"Monroe","Sweden 12","State Senate",62,"REP","Robert G. Ortt",235
+"Monroe","Ogden 1","State Senate",62,"CON","Robert G. Ortt",52
+"Monroe","Ogden 2","State Senate",62,"CON","Robert G. Ortt",55
+"Monroe","Ogden 3","State Senate",62,"CON","Robert G. Ortt",69
+"Monroe","Ogden 4","State Senate",62,"CON","Robert G. Ortt",59
+"Monroe","Ogden 5","State Senate",62,"CON","Robert G. Ortt",59
+"Monroe","Ogden 6","State Senate",62,"CON","Robert G. Ortt",63
+"Monroe","Ogden 7","State Senate",62,"CON","Robert G. Ortt",41
+"Monroe","Ogden 8","State Senate",62,"CON","Robert G. Ortt",57
+"Monroe","Ogden 9","State Senate",62,"CON","Robert G. Ortt",44
+"Monroe","Ogden 10","State Senate",62,"CON","Robert G. Ortt",67
+"Monroe","Ogden 11","State Senate",62,"CON","Robert G. Ortt",70
+"Monroe","Ogden 12","State Senate",62,"CON","Robert G. Ortt",62
+"Monroe","Ogden 13","State Senate",62,"CON","Robert G. Ortt",56
+"Monroe","Ogden 14","State Senate",62,"CON","Robert G. Ortt",50
+"Monroe","Ogden 15","State Senate",62,"CON","Robert G. Ortt",74
+"Monroe","Ogden 16","State Senate",62,"CON","Robert G. Ortt",42
+"Monroe","Ogden 17","State Senate",62,"CON","Robert G. Ortt",38
+"Monroe","Ogden 18","State Senate",62,"CON","Robert G. Ortt",74
+"Monroe","Ogden 19","State Senate",62,"CON","Robert G. Ortt",73
+"Monroe","Ogden 20","State Senate",62,"CON","Robert G. Ortt",89
+"Monroe","Sweden 1","State Senate",62,"CON","Robert G. Ortt",51
+"Monroe","Sweden 2","State Senate",62,"CON","Robert G. Ortt",23
+"Monroe","Sweden 3","State Senate",62,"CON","Robert G. Ortt",69
+"Monroe","Sweden 4","State Senate",62,"CON","Robert G. Ortt",60
+"Monroe","Sweden 5","State Senate",62,"CON","Robert G. Ortt",11
+"Monroe","Sweden 6","State Senate",62,"CON","Robert G. Ortt",62
+"Monroe","Sweden 7","State Senate",62,"CON","Robert G. Ortt",59
+"Monroe","Sweden 8","State Senate",62,"CON","Robert G. Ortt",61
+"Monroe","Sweden 9","State Senate",62,"CON","Robert G. Ortt",42
+"Monroe","Sweden 10","State Senate",62,"CON","Robert G. Ortt",87
+"Monroe","Sweden 11","State Senate",62,"CON","Robert G. Ortt",21
+"Monroe","Sweden 12","State Senate",62,"CON","Robert G. Ortt",70
+"Monroe","Ogden 1","State Senate",62,"IND","Robert G. Ortt",24
+"Monroe","Ogden 2","State Senate",62,"IND","Robert G. Ortt",35
+"Monroe","Ogden 3","State Senate",62,"IND","Robert G. Ortt",40
+"Monroe","Ogden 4","State Senate",62,"IND","Robert G. Ortt",32
+"Monroe","Ogden 5","State Senate",62,"IND","Robert G. Ortt",39
+"Monroe","Ogden 6","State Senate",62,"IND","Robert G. Ortt",36
+"Monroe","Ogden 7","State Senate",62,"IND","Robert G. Ortt",28
+"Monroe","Ogden 8","State Senate",62,"IND","Robert G. Ortt",37
+"Monroe","Ogden 9","State Senate",62,"IND","Robert G. Ortt",38
+"Monroe","Ogden 10","State Senate",62,"IND","Robert G. Ortt",37
+"Monroe","Ogden 11","State Senate",62,"IND","Robert G. Ortt",37
+"Monroe","Ogden 12","State Senate",62,"IND","Robert G. Ortt",48
+"Monroe","Ogden 13","State Senate",62,"IND","Robert G. Ortt",44
+"Monroe","Ogden 14","State Senate",62,"IND","Robert G. Ortt",36
+"Monroe","Ogden 15","State Senate",62,"IND","Robert G. Ortt",37
+"Monroe","Ogden 16","State Senate",62,"IND","Robert G. Ortt",16
+"Monroe","Ogden 17","State Senate",62,"IND","Robert G. Ortt",39
+"Monroe","Ogden 18","State Senate",62,"IND","Robert G. Ortt",61
+"Monroe","Ogden 19","State Senate",62,"IND","Robert G. Ortt",40
+"Monroe","Ogden 20","State Senate",62,"IND","Robert G. Ortt",46
+"Monroe","Sweden 1","State Senate",62,"IND","Robert G. Ortt",41
+"Monroe","Sweden 2","State Senate",62,"IND","Robert G. Ortt",36
+"Monroe","Sweden 3","State Senate",62,"IND","Robert G. Ortt",51
+"Monroe","Sweden 4","State Senate",62,"IND","Robert G. Ortt",52
+"Monroe","Sweden 5","State Senate",62,"IND","Robert G. Ortt",10
+"Monroe","Sweden 6","State Senate",62,"IND","Robert G. Ortt",51
+"Monroe","Sweden 7","State Senate",62,"IND","Robert G. Ortt",42
+"Monroe","Sweden 8","State Senate",62,"IND","Robert G. Ortt",36
+"Monroe","Sweden 9","State Senate",62,"IND","Robert G. Ortt",42
+"Monroe","Sweden 10","State Senate",62,"IND","Robert G. Ortt",44
+"Monroe","Sweden 11","State Senate",62,"IND","Robert G. Ortt",24
+"Monroe","Sweden 12","State Senate",62,"IND","Robert G. Ortt",20
+"Monroe","Ogden 1","State Senate",62,"REF","Robert G. Ortt",6
+"Monroe","Ogden 2","State Senate",62,"REF","Robert G. Ortt",6
+"Monroe","Ogden 3","State Senate",62,"REF","Robert G. Ortt",8
+"Monroe","Ogden 4","State Senate",62,"REF","Robert G. Ortt",1
+"Monroe","Ogden 5","State Senate",62,"REF","Robert G. Ortt",2
+"Monroe","Ogden 6","State Senate",62,"REF","Robert G. Ortt",3
+"Monroe","Ogden 7","State Senate",62,"REF","Robert G. Ortt",2
+"Monroe","Ogden 8","State Senate",62,"REF","Robert G. Ortt",4
+"Monroe","Ogden 9","State Senate",62,"REF","Robert G. Ortt",4
+"Monroe","Ogden 10","State Senate",62,"REF","Robert G. Ortt",0
+"Monroe","Ogden 11","State Senate",62,"REF","Robert G. Ortt",2
+"Monroe","Ogden 12","State Senate",62,"REF","Robert G. Ortt",4
+"Monroe","Ogden 13","State Senate",62,"REF","Robert G. Ortt",2
+"Monroe","Ogden 14","State Senate",62,"REF","Robert G. Ortt",1
+"Monroe","Ogden 15","State Senate",62,"REF","Robert G. Ortt",7
+"Monroe","Ogden 16","State Senate",62,"REF","Robert G. Ortt",2
+"Monroe","Ogden 17","State Senate",62,"REF","Robert G. Ortt",6
+"Monroe","Ogden 18","State Senate",62,"REF","Robert G. Ortt",6
+"Monroe","Ogden 19","State Senate",62,"REF","Robert G. Ortt",3
+"Monroe","Ogden 20","State Senate",62,"REF","Robert G. Ortt",4
+"Monroe","Sweden 1","State Senate",62,"REF","Robert G. Ortt",2
+"Monroe","Sweden 2","State Senate",62,"REF","Robert G. Ortt",7
+"Monroe","Sweden 3","State Senate",62,"REF","Robert G. Ortt",6
+"Monroe","Sweden 4","State Senate",62,"REF","Robert G. Ortt",8
+"Monroe","Sweden 5","State Senate",62,"REF","Robert G. Ortt",4
+"Monroe","Sweden 6","State Senate",62,"REF","Robert G. Ortt",5
+"Monroe","Sweden 7","State Senate",62,"REF","Robert G. Ortt",4
+"Monroe","Sweden 8","State Senate",62,"REF","Robert G. Ortt",3
+"Monroe","Sweden 9","State Senate",62,"REF","Robert G. Ortt",6
+"Monroe","Sweden 10","State Senate",62,"REF","Robert G. Ortt",6
+"Monroe","Sweden 11","State Senate",62,"REF","Robert G. Ortt",1
+"Monroe","Sweden 12","State Senate",62,"REF","Robert G. Ortt",7
+"Monroe","Ogden 1","State Senate",62,,"Scatter",1
+"Monroe","Ogden 2","State Senate",62,,"Scatter",3
+"Monroe","Ogden 3","State Senate",62,,"Scatter",2
+"Monroe","Ogden 4","State Senate",62,,"Scatter",3
+"Monroe","Ogden 5","State Senate",62,,"Scatter",1
+"Monroe","Ogden 6","State Senate",62,,"Scatter",1
+"Monroe","Ogden 7","State Senate",62,,"Scatter",0
+"Monroe","Ogden 8","State Senate",62,,"Scatter",2
+"Monroe","Ogden 9","State Senate",62,,"Scatter",1
+"Monroe","Ogden 10","State Senate",62,,"Scatter",1
+"Monroe","Ogden 11","State Senate",62,,"Scatter",0
+"Monroe","Ogden 12","State Senate",62,,"Scatter",4
+"Monroe","Ogden 13","State Senate",62,,"Scatter",4
+"Monroe","Ogden 14","State Senate",62,,"Scatter",2
+"Monroe","Ogden 15","State Senate",62,,"Scatter",2
+"Monroe","Ogden 16","State Senate",62,,"Scatter",2
+"Monroe","Ogden 17","State Senate",62,,"Scatter",0
+"Monroe","Ogden 18","State Senate",62,,"Scatter",2
+"Monroe","Ogden 19","State Senate",62,,"Scatter",1
+"Monroe","Ogden 20","State Senate",62,,"Scatter",0
+"Monroe","Sweden 1","State Senate",62,,"Scatter",0
+"Monroe","Sweden 2","State Senate",62,,"Scatter",1
+"Monroe","Sweden 3","State Senate",62,,"Scatter",3
+"Monroe","Sweden 4","State Senate",62,,"Scatter",4
+"Monroe","Sweden 5","State Senate",62,,"Scatter",0
+"Monroe","Sweden 6","State Senate",62,,"Scatter",3
+"Monroe","Sweden 7","State Senate",62,,"Scatter",1
+"Monroe","Sweden 8","State Senate",62,,"Scatter",1
+"Monroe","Sweden 9","State Senate",62,,"Scatter",2
+"Monroe","Sweden 10","State Senate",62,,"Scatter",2
+"Monroe","Sweden 11","State Senate",62,,"Scatter",3
+"Monroe","Sweden 12","State Senate",62,,"Scatter",4
+"Monroe","Ogden 1","State Senate",62,,"Blank and void",142
+"Monroe","Ogden 2","State Senate",62,,"Blank and void",111
+"Monroe","Ogden 3","State Senate",62,,"Blank and void",170
+"Monroe","Ogden 4","State Senate",62,,"Blank and void",96
+"Monroe","Ogden 5","State Senate",62,,"Blank and void",100
+"Monroe","Ogden 6","State Senate",62,,"Blank and void",189
+"Monroe","Ogden 7","State Senate",62,,"Blank and void",69
+"Monroe","Ogden 8","State Senate",62,,"Blank and void",152
+"Monroe","Ogden 9","State Senate",62,,"Blank and void",148
+"Monroe","Ogden 10","State Senate",62,,"Blank and void",124
+"Monroe","Ogden 11","State Senate",62,,"Blank and void",114
+"Monroe","Ogden 12","State Senate",62,,"Blank and void",171
+"Monroe","Ogden 13","State Senate",62,,"Blank and void",104
+"Monroe","Ogden 14","State Senate",62,,"Blank and void",115
+"Monroe","Ogden 15","State Senate",62,,"Blank and void",150
+"Monroe","Ogden 16","State Senate",62,,"Blank and void",72
+"Monroe","Ogden 17","State Senate",62,,"Blank and void",103
+"Monroe","Ogden 18","State Senate",62,,"Blank and void",170
+"Monroe","Ogden 19","State Senate",62,,"Blank and void",170
+"Monroe","Ogden 20","State Senate",62,,"Blank and void",135
+"Monroe","Sweden 1","State Senate",62,,"Blank and void",159
+"Monroe","Sweden 2","State Senate",62,,"Blank and void",106
+"Monroe","Sweden 3","State Senate",62,,"Blank and void",203
+"Monroe","Sweden 4","State Senate",62,,"Blank and void",172
+"Monroe","Sweden 5","State Senate",62,,"Blank and void",53
+"Monroe","Sweden 6","State Senate",62,,"Blank and void",110
+"Monroe","Sweden 7","State Senate",62,,"Blank and void",137
+"Monroe","Sweden 8","State Senate",62,,"Blank and void",104
+"Monroe","Sweden 9","State Senate",62,,"Blank and void",132
+"Monroe","Sweden 10","State Senate",62,,"Blank and void",161
+"Monroe","Sweden 11","State Senate",62,,"Blank and void",60
+"Monroe","Sweden 12","State Senate",62,,"Blank and void",108

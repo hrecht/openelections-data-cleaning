@@ -62,6 +62,7 @@ prez <- prez %>% mutate(candidate = ifelse(is.na(party), candidate,
 table(prez$candidate, prez$party, useNA = "always")
 
 write.csv(prez, "data-final/monroe_president_2016.csv", row.names = F, na="")
+rm(prez_raw)
 
 #########################################################
 # Senator
@@ -82,6 +83,7 @@ senate <- senate %>% mutate(candidate = ifelse(is.na(party), candidate,
 table(senate$candidate, senate$party, useNA = "always")
 
 write.csv(senate, "data-final/monroe_ussenator_2016.csv", row.names = F, na="")
+rm(senate_raw)
 
 #########################################################
 # U.S. Representative, 25th and 27th districts
@@ -119,9 +121,13 @@ table(rep27$candidate, rep27$party, useNA = "always")
 
 write.csv(rep27, "data-final/monroe_ushouse27_2016.csv", row.names = F, na="")
 
+reps <- rbind(rep25, rep27)
+rm(rep25, rep25_raw, rep27, rep27_raw)
+
 #########################################################
 # State Senate
 #########################################################
+# 54TH DISTRICT
 nys54_raw <- read.csv("data-export/tabula-2016 Monroe, NY precinct-level election results nysenate54.csv", stringsAsFactors = F, header = F, na.strings = "")
 
 # Column names
@@ -138,9 +144,90 @@ table(nys54$candidate, nys54$party, useNA = "always")
 
 write.csv(nys54, "data-final/monroe_nysenate54_2016.csv", row.names = F, na="")
 
+# 55TH DISTRICT
+nys55_raw <- read.csv("data-export/tabula-2016 Monroe, NY precinct-level election results nysenate55.csv", stringsAsFactors = F, header = F, na.strings = "")
+
+# Column names
+colnames(nys55_raw) <- c("town", "precinct", "total", "rep", "con", "ind", "ref", "scatter", "blankvoid")
+nys55 <- formatData(nys55_raw, "State Senate", 55)
+
+# Candidate names
+nys55 <- nys55 %>% mutate(candidate = ifelse(is.na(party), candidate,
+	ifelse(party %in% c("REP", "CON", "IND", "REF"), "Rich Funke",
+		NA)))
+table(nys55$candidate, nys55$party, useNA = "always")
+
+write.csv(nys55, "data-final/monroe_nysenate55_2016.csv", row.names = F, na="")
+
+# 56TH DISTRICT
+nys56_raw <- read.csv("data-export/tabula-2016 Monroe, NY precinct-level election results nysenate56.csv", stringsAsFactors = F, header = F, na.strings = "")
+
+# Column names
+colnames(nys56_raw) <- c("town", "precinct", "total", "dem", "rep", "con", "wor", "ind", "ref", "scatter", "blankvoid")
+nys56 <- formatData(nys56_raw, "State Senate", 56)
+
+# Candidate names
+nys56 <- nys56 %>% mutate(candidate = ifelse(is.na(party), candidate,
+	ifelse(party %in% c("DEM", "WOR"), "Ann C. Lewis",
+		ifelse(party %in% c("REP", "CON", "IND", "REF"), "Joseph E. Robach",
+																						 			 NA))))
+table(nys56$candidate, nys56$party, useNA = "always")
+
+write.csv(nys56, "data-final/monroe_nysenate56_2016.csv", row.names = F, na="")
+
+# 59TH DISTRICT
+nys59_raw <- read.csv("data-export/tabula-2016 Monroe, NY precinct-level election results nysenate59.csv", stringsAsFactors = F, header = F, na.strings = "")
+
+# Column names
+colnames(nys59_raw) <- c("town", "precinct", "total", "dem", "rep", "con", "ind", "ref", "scatter", "blankvoid")
+nys59 <- formatData(nys59_raw, "State Senate", 59)
+
+# Candidate names
+nys59 <- nys59 %>% mutate(candidate = ifelse(is.na(party), candidate,
+	ifelse(party == "DEM", "Tom Casey",
+		ifelse(party %in% c("REP", "CON", "IND", "REF"), "Patrick M. Gallivan",
+			NA))))
+table(nys59$candidate, nys59$party, useNA = "always")
+
+write.csv(nys59, "data-final/monroe_nysenate59_2016.csv", row.names = F, na="")
+
+# 61ST DISTRICT
+nys61_raw <- read.csv("data-export/tabula-2016 Monroe, NY precinct-level election results nysenate61.csv", stringsAsFactors = F, header = F, na.strings = "")
+
+# Column names
+colnames(nys61_raw) <- c("town", "precinct", "total", "dem", "rep", "con", "gre", "wor", "ind", "wep", "ref", "scatter", "blankvoid")
+nys61 <- formatData(nys61_raw, "State Senate", 61)
+
+# Candidate names
+nys61 <- nys61 %>% mutate(candidate = ifelse(is.na(party), candidate,
+	ifelse(party %in% c("DEM", "WOR", "WEP"), "Thomas A. Loughran",
+		ifelse(party %in% c("REP", "CON", "IND", "REF"), "Michael H. Ranzenhoffer",
+			ifelse(party == "GRE", "Ruben Cartagena, Jr.",
+				NA)))))
+table(nys61$candidate, nys61$party, useNA = "always")
+
+write.csv(nys61, "data-final/monroe_nysenate61_2016.csv", row.names = F, na="")
+
+# 62ND DISTRICT
+nys62_raw <- read.csv("data-export/tabula-2016 Monroe, NY precinct-level election results nysenate62.csv", stringsAsFactors = F, header = F, na.strings = "")
+
+# Column names
+colnames(nys62_raw) <- c("town", "precinct", "total", "rep", "con", "ind", "ref", "scatter", "blankvoid")
+nys62 <- formatData(nys62_raw, "State Senate", 62)
+
+# Candidate names
+nys62 <- nys62 %>% mutate(candidate = ifelse(is.na(party), candidate,
+	ifelse(party %in% c("REP", "CON", "IND", "REF"), "Robert G. Ortt",
+		NA)))
+table(nys62$candidate, nys62$party, useNA = "always")
+
+write.csv(nys62, "data-final/monroe_nysenate62_2016.csv", row.names = F, na="")
+
+nys <- rbind(nys54, nys55, nys56, nys59, nys61, nys62)
+rm(nys54_raw, nys55_raw, nys56_raw, nys59_raw, nys61_raw, nys62_raw, nys54, nys55, nys56, nys59, nys61, nys62)
 
 #########################################################
-# All joined, saved with OpenElections naming scheme
+# All joined, saved with OpenElections file naming scheme
 #########################################################
-monroe <- rbind(prez, senate, rep25, rep27)
+monroe <- rbind(prez, senate, reps, nys)
 write.csv(monroe, "data-final/20161108__ny__general__monroe__precinct.csv", row.names = F, na="")
