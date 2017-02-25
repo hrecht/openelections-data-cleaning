@@ -229,7 +229,7 @@ rm(nys54_raw, nys55_raw, nys56_raw, nys59_raw, nys61_raw, nys62_raw, nys54, nys5
 #########################################################
 # NY Assembly
 # Saved district #, party, and candidate names in a CSV for much more efficiency
-# In the future, do it this way always
+# In the future, do it this way always!!
 #########################################################
 nya_candidates <- read.csv("data-export/monroe-candidates.csv", stringsAsFactors = F)
 nya_candidates$party <- toupper(nya_candidates$party)
